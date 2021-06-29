@@ -49,8 +49,6 @@ for personName,personLastname in zip(names,lastnames):
     draw.text((670,575),month,(0,0,0),font=font2 ) #month position
     draw.text((1090,575),year,(0,0,0),font=font2 ) #year position
     
-    
-
     file = "yourfilename"+fullname
     
     #add a few enhance 
